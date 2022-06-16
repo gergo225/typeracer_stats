@@ -4,3 +4,5 @@ A simple Python script that extracts the typing speed from the last [Typeracer](
 
 The data is displayed in a plot, for easier evaluation.
 
+## Running instructions
+Command to run the app: `python -m typeracer_stats.py`
